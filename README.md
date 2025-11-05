@@ -8,7 +8,6 @@ These labs are designed to help students build practical, reproducible, and scal
 ---
 
 ## 🧭 Labs Overview  
-
 - **Lab 1 – HPC & Cloud Access**  
   Setting up SSH keys, connecting to Greene and GCP via Slurm, and configuring VS Code Remote for seamless development.  
 
@@ -24,7 +23,6 @@ These labs are designed to help students build practical, reproducible, and scal
 ---
 
 ## ⚙️ Tech Stack  
-
 - **Languages & Frameworks:** Python, PyTorch, HuggingFace Transformers  
 - **Infrastructure:** Slurm, tmux, Singularity, TensorBoard  
 - **Computing:** Greene HPC, GCP Cloud Burst  
@@ -33,7 +31,6 @@ These labs are designed to help students build practical, reproducible, and scal
 ---
 
 ## 🎯 Learning Outcomes  
-
 Students completing these labs will:  
 - Use **Greene HPC** and **GCP Cloud** for scalable machine learning workloads.  
 - Build **reproducible environments** using Singularity overlays and shared storage.  
@@ -43,7 +40,6 @@ Students completing these labs will:
 ---
 
 ## 👩🏻‍💻 Maintainer  
-
 **Wenxin (Wendy) Zhang**  
 Section Leader, NYU CDS Capstone  
 📍 New York, NY  
