@@ -1,6 +1,6 @@
 # 🧑🏻‍🏫 NYU CDS – DS-GA 1006 Capstone Lab Sessions
 
-> *Reproducible Machine Learning Workflows on HPC & Cloud — Taught at NYU Center for Data Science (CDS)*  
+*Reproducible Machine Learning Workflows on HPC & Cloud — Taught at NYU Center for Data Science (CDS)*
 
 - This repository contains lab materials I prepared and taught as a **Section Leader (TA)** for the **Data Science Capstone Course** at the [NYU Center for Data Science](https://cds.nyu.edu/).  
 - These labs are designed to help students build practical, reproducible, and scalable data science workflows using **Greene HPC**, **GCP Cloud**, **Slurm**, and **PyTorch**.
