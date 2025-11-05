@@ -1,13 +1,14 @@
-# 🧑🏻‍🏫 NYU CDS – DS-GA 1006 Capstone Lab Sessions  
+# 🧑🏻‍🏫 NYU CDS – DS-GA 1006 Capstone Lab Sessions
 
 > *Reproducible Machine Learning Workflows on HPC & Cloud — Taught at NYU Center for Data Science (CDS)*  
 
-This repository contains lab materials I prepared and taught as a **Section Leader (TA)** for the **Data Science Capstone Course** at the [NYU Center for Data Science](https://cds.nyu.edu/).  
-These labs are designed to help students build practical, reproducible, and scalable data science workflows using **Greene HPC**, **GCP Cloud**, **Slurm**, and **PyTorch**.
+- This repository contains lab materials I prepared and taught as a **Section Leader (TA)** for the **Data Science Capstone Course** at the [NYU Center for Data Science](https://cds.nyu.edu/).  
+- These labs are designed to help students build practical, reproducible, and scalable data science workflows using **Greene HPC**, **GCP Cloud**, **Slurm**, and **PyTorch**.
 
 ---
 
-## 🧭 Labs Overview  
+## 🧭 Labs Overview
+
 - **Lab 1 – HPC & Cloud Access**  
   Setting up SSH keys, connecting to Greene and GCP via Slurm, and configuring VS Code Remote for seamless development.  
 
@@ -22,7 +23,7 @@ These labs are designed to help students build practical, reproducible, and scal
 
 ---
 
-## ⚙️ Tech Stack  
+## ⚙️ Tech Stack
 - **Languages & Frameworks:** Python, PyTorch, HuggingFace Transformers  
 - **Infrastructure:** Slurm, tmux, Singularity, TensorBoard  
 - **Computing:** Greene HPC, GCP Cloud Burst  
@@ -30,7 +31,7 @@ These labs are designed to help students build practical, reproducible, and scal
 
 ---
 
-## 🎯 Learning Outcomes  
+## 🎯 Learning Outcomes
 Students completing these labs will:  
 - Use **Greene HPC** and **GCP Cloud** for scalable machine learning workloads.  
 - Build **reproducible environments** using Singularity overlays and shared storage.  
@@ -39,7 +40,7 @@ Students completing these labs will:
 
 ---
 
-## 👩🏻‍💻 Maintainer  
+## 👩🏻‍💻 Maintainer
 **Wenxin (Wendy) Zhang**  
 Section Leader, NYU CDS Capstone  
 📍 New York, NY  
