@@ -2,8 +2,8 @@
 
 *Reproducible Machine Learning Workflows on HPC & Cloud — Taught at NYU Center for Data Science (CDS)*
 
-- This repository contains lab materials I prepared and taught as a **Section Leader (TA)** for the **Data Science Capstone Course** at the [NYU Center for Data Science](https://cds.nyu.edu/).  
-- These labs are designed to help students build practical, reproducible, and scalable data science workflows using **Greene HPC**, **GCP Cloud**, **Slurm**, and **PyTorch**.
+This repository contains lab materials I prepared and taught as a **Section Leader (TA)** for the **Data Science Capstone Course** at the [NYU Center for Data Science](https://cds.nyu.edu/).  
+These labs are designed to help students build practical, reproducible, and scalable data science workflows using **Greene HPC**, **GCP Cloud**, **Slurm**, and **PyTorch**.
 
 ---
 
@@ -19,11 +19,12 @@
   Building a text classification workflow using HuggingFace Transformers and PyTorch Trainer with GPU acceleration and TensorBoard tracking.  
 
 - **Lab 4 – Computer Vision Pipeline (Places365)**  
-  Training an image classification model using PyTorch Lightning-style training, mixed precision, and multi-GPU setup.  
+  Training an image classification model using PyTorch Lightning-style training, mixed precision, and a multi-GPU setup.  
 
 ---
 
 ## ⚙️ Tech Stack
+
 - **Languages & Frameworks:** Python, PyTorch, HuggingFace Transformers  
 - **Infrastructure:** Slurm, tmux, Singularity, TensorBoard  
 - **Computing:** Greene HPC, GCP Cloud Burst  
@@ -32,6 +33,7 @@
 ---
 
 ## 🎯 Learning Outcomes
+
 Students completing these labs will:  
 - Use **Greene HPC** and **GCP Cloud** for scalable machine learning workloads.  
 - Build **reproducible environments** using Singularity overlays and shared storage.  
@@ -41,9 +43,8 @@ Students completing these labs will:
 ---
 
 ## 👩🏻‍💻 Maintainer
+
 **Wenxin (Wendy) Zhang**  
 Section Leader, NYU CDS Capstone  
 📍 New York, NY  
 🔗 [LinkedIn](https://www.linkedin.com/in/wenxinzhang980719/) ｜ [GitHub](https://github.com/wendyZhang98) ｜ [Medium](https://medium.com/@WenxinZhang98)
-
----
